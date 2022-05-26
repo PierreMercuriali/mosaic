@@ -1,0 +1,2 @@
+# mosaic
+Generating mosaics.
